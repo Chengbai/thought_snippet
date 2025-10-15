@@ -2,6 +2,11 @@
 ---
 Thought snippets for **design**, **coding**, **ML**, ...
 
+## AI Compute Engine: Design Guide for Scaling ML/AI Applications
+---
+This document outlines the architecture and design considerations for building a scalable AI compute engine that supports distributed training, inference, and MLOps workflows. The system transitions Python applications from local development to production-scale cloud deployment.
+- [ml/ml_engine_design/ml_engine_design.md](https://github.com/Chengbai/thought_snippet/blob/main/ml/ml_engine_design/ml_engine_design.md)
+
 ## Safe manage object lifecycle via Context Manager
 ---
 **Context manager** is a special kind of context that can be used to manage the lifetime of an object. It provides a way to ensure that resources are properly managed and released when they are no longer needed. It allows you to define a block of code that will be executed in a specific context, which ensures that certain operations are performed before and after the execution of the code.

@@ -18,3 +18,8 @@ A **no-op layer** (short for "no operation layer") is a layer in a neural networ
 **Chunked prefill** is a technique for processing long prompt sequences in large language models (LLMs) by breaking the prefill phase into smaller chunks rather than processing the entire prompt at once.
 
 - [ml/chunked_prefill/chunked_prefill.md](https://github.com/Chengbai/thought_snippet/blob/main/ml/chunked_prefill/chunked_prefill.md)
+
+## KV-cache
+---
+ **KV-cache** (Key-Value cache) is a memory optimization technique used in transformer models to avoid redundant computations during autoregressive generation at inference stage.
+- [ml/kv_cache/kv_cache.md](https://github.com/Chengbai/thought_snippet/blob/main/ml/kv_cache/kv_cache.md)

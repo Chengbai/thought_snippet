@@ -11,4 +11,4 @@ Thought snippets for **design**, **coding**, **ML**, ...
 ---
 A **no-op layer** (short for "no operation layer") is a layer in a neural network or computational graph that performs no actual transformation on its input—it simply passes the data through unchanged.
 
-- [python/no_op/no_op.md](https://github.com/Chengbai/thought_snippet/blob/main/python/no_op/no_op.md)
+- [python/no_op/no_op.md](https://github.com/Chengbai/thought_snippet/blob/main/ml/no_op/no_op.md)

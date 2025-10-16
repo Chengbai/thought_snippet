@@ -28,3 +28,8 @@ A **no-op layer** (short for "no operation layer") is a layer in a neural networ
 ---
  **KV-cache** (Key-Value cache) is a memory optimization technique used in transformer models to avoid redundant computations during autoregressive generation at inference stage.
 - [ml/kv_cache/kv_cache.md](https://github.com/Chengbai/thought_snippet/blob/main/ml/kv_cache/kv_cache.md)
+
+## Ray vs K8s
+---
+Use **K8s as your cluster infrastructure**, and **Ray as your distributed computing framework** running on top of it. This gives you K8s's operational benefits (auto-scaling, monitoring, multi-tenancy) with Ray's ML-friendly APIs.
+- [ml/ray_vs_k8s/ray_vs_k8s.md](https://github.com/Chengbai/thought_snippet/blob/main/ml/ray_vs_k8s/ray_vs_k8s.md)
